@@ -1,6 +1,6 @@
 let accessToken ;
-let redirectURI = 'http://yielding-cake.surge.sh/';
-let clientId = '4ef046c74cb94e6f9e5cd8ecfacebe9f';
+let redirectURI = 'confidential';
+let clientId = 'confidential';
 
 
 
